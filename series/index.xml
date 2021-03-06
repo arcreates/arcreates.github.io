@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Church Media Lab</title>
-    <link>arcreates.github.io/series/</link>
+    <link>churchmedialab.com/series/</link>
     <description>Recent content in Series on Church Media Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="arcreates.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="churchmedialab.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo 101</title>
-      <link>arcreates.github.io/series/hugo-101/</link>
+      <link>churchmedialab.com/series/hugo-101/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>arcreates.github.io/series/hugo-101/</guid>
+      <guid>churchmedialab.com/series/hugo-101/</guid>
       <description></description>
     </item>
     
