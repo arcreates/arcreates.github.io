@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Media on Church Media Lab</title>
-    <link>churchmedialab.com/categories/media/</link>
+    <link>https://churchmedialab.com/categories/media/</link>
     <description>Recent content in Media on Church Media Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="churchmedialab.com/categories/media/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://churchmedialab.com/categories/media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Happy New Year</title>
-      <link>churchmedialab.com/posts/2021/01/happy-new-year/</link>
+      <link>https://churchmedialab.com/posts/2021/01/happy-new-year/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>churchmedialab.com/posts/2021/01/happy-new-year/</guid>
+      <guid>https://churchmedialab.com/posts/2021/01/happy-new-year/</guid>
       <description>Introduction Happy New Year from the CML</description>
     </item>
     
