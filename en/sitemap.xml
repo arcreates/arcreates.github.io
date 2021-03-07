@@ -2,34 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://churchmedialab.com/posts/2014/09/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://churchmedialab.com/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://churchmedialab.com/posts/2014/09/creating-a-new-theme/"
-                />
-  </url><url>
-    <loc>https://churchmedialab.com/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://churchmedialab.com/fr/posts/2014/03/migrer-vers-hugo-depuis-jekyll/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://churchmedialab.com/posts/2014/03/migrate-to-hugo-from-jekyll/"
-                />
-  </url><url>
     <loc>https://churchmedialab.com/categories/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -42,7 +16,7 @@
                 />
   </url><url>
     <loc>https://churchmedialab.com/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -54,30 +28,22 @@
                 href="https://churchmedialab.com/"
                 />
   </url><url>
-    <loc>https://churchmedialab.com/posts/2021/01/happy-new-year/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>https://churchmedialab.com/posts/2021/03/episode-001-the-introduction/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://churchmedialab.com/categories/media/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>https://churchmedialab.com/categories/podcast/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://churchmedialab.com/posts/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://churchmedialab.com/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://churchmedialab.com/posts/"
-                />
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://churchmedialab.com/series/hugo-101/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://churchmedialab.com/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://churchmedialab.com/contact/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://churchmedialab.com/series/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -89,58 +55,7 @@
                 href="https://churchmedialab.com/series/"
                 />
   </url><url>
-    <loc>https://churchmedialab.com/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://churchmedialab.com/contact/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://churchmedialab.com/posts/2014/04/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://churchmedialab.com/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://churchmedialab.com/posts/2014/04/hugo-template-primer/"
-                />
-  </url><url>
-    <loc>https://churchmedialab.com/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://churchmedialab.com/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://churchmedialab.com/posts/2014/04/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://churchmedialab.com/fr/posts/2014/04/d%C3%A9buter-avec-hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://churchmedialab.com/posts/2014/04/getting-started-with-hugo/"
-                />
-  </url><url>
-    <loc>https://churchmedialab.com/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://churchmedialab.com/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://churchmedialab.com/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://churchmedialab.com/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://churchmedialab.com/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -151,11 +66,5 @@
                 hreflang="en"
                 href="https://churchmedialab.com/tags/"
                 />
-  </url><url>
-    <loc>https://churchmedialab.com/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://churchmedialab.com/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>

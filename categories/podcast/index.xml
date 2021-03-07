@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Church Media Lab</title>
-    <link>https://churchmedialab.com/</link>
-    <description>Recent content on Church Media Lab</description>
+    <title>Podcast on Church Media Lab</title>
+    <link>https://churchmedialab.com/categories/podcast/</link>
+    <description>Recent content in Podcast on Church Media Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://churchmedialab.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://churchmedialab.com/categories/podcast/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Episode 001 - The Introduction</title>
       <link>https://churchmedialab.com/posts/2021/03/episode-001-the-introduction/</link>
@@ -15,28 +15,6 @@
       
       <guid>https://churchmedialab.com/posts/2021/03/episode-001-the-introduction/</guid>
       <description>Show Notes This is our very first episode of the Church Media Lab podcast. Meet the two host of our show, Bradley and Anthony. We have quite a few interesting shows planned so stay tuned. As of publishing this we are currently on Pocketcast, AnchorFM, and Spotify. Within the upcoming weeks our podcast should be available in more apps. If you have any media related questions or would like to submit a show topic, please drop us an email or leave a comment on our social media.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://churchmedialab.com/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://churchmedialab.com/about/</guid>
-      <description>Host Anthony Roberts
-Anthony Currently serves&amp;hellip;
-Bradley Essary
-Bradley Currently serves&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Contact Us</title>
-      <link>https://churchmedialab.com/contact/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://churchmedialab.com/contact/</guid>
-      <description>Contact Our Host Anthony Email
-Bradley Bradley Essary</description>
     </item>
     
   </channel>
