@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://churchmedialab.com/categories/</loc>
-    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://churchmedialab.com/</loc>
-    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -28,20 +28,23 @@
                 href="https://churchmedialab.com/"
                 />
   </url><url>
+    <loc>https://churchmedialab.com/posts/2021/03/episode-002-all-things-livestream/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://churchmedialab.com/categories/podcast/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://churchmedialab.com/posts/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://churchmedialab.com/posts/2021/03/episode-001-the-introduction/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://churchmedialab.com/categories/podcast/</loc>
-    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://churchmedialab.com/posts/</loc>
-    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://churchmedialab.com/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://churchmedialab.com/contact/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://churchmedialab.com/series/</loc>
     <xhtml:link
